@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Alaguraja&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Building%20Safety%20Layers%20Around%20Intelligent%20Systems&descAlignY=62&descSize=14" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Alaguraja&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Building%20Safe%20AI%20Systems&descAlignY=62&descSize=16" />
 </p>
 
 <p align="center">
@@ -41,19 +41,19 @@ class Alaguraja:
         "Mobile Privacy & Security"
     ]
 
-    currently = "Applying to the Singapore AI Safety Fellowship"
+    currently = "Applying to Singapore AI Safety Fellowship"
 
-    fun_fact = "Authored a 23-page technical work sample spanning 3 AI safety projects."
+    fun_fact = "Wrote a 23-page AI safety research sample"
 
     @staticmethod
     def motto():
-        return "Building safety layers around intelligent systems. 🛡️"
+        return "Building safety layers around AI. 🛡️"
 ```
 
 </td>
 <td width="40%" valign="top" align="center">
 
-<img width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img width="260" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 </td>
 </tr>
