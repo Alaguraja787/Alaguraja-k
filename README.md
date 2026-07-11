@@ -15,7 +15,9 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ```python
 class Alaguraja:
@@ -48,7 +50,14 @@ class Alaguraja:
         return "Building safety layers around intelligent systems. 🛡️"
 ```
 
-<br clear="right"/>
+</td>
+<td width="40%" valign="top" align="center">
+
+<img width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
